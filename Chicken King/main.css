@@ -1,0 +1,36 @@
+#logo {
+    font-family: 'Vibur', cursive;
+}
+
+.textonimage {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    top: 30%;
+    color:white;
+    font-size: 40px;
+}
+
+#toprow {
+    padding-top: 20px;
+    padding-bottom: 20px;  
+    background: #E8703C;
+}
+
+#bottomrow {
+    padding-bottom: 20px;
+    background: #E8703C;
+}
+
+#map {
+    height: 400px;
+}
+
+#endingSection {
+    padding-bottom: 20px;
+    background: #FFD432;
+}
+
+#phone {
+    background: #D1FFE5;
+}
